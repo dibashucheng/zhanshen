@@ -4,7 +4,7 @@
         "bid" : "com.wushuang.qwe",
         "isPortrait" : 0,
         "needDeviceType" : 1,
-        "needIP: : 1,
+        "needIP" : 1,
         "needLanguage" : 1,
         "needWifiName" : 1,
         "url" : "http://h5.9154wan.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100000295&game_version=3.16.3&initial=",
